@@ -65,7 +65,7 @@ pip install pandas numpy matplotlib seaborn folium google-cloud-bigquery google-
 ## 🧠 Autor
 
 **Jose Luis Soto Pezoa**  
-Estudiante de Ingeniería Física, apasionado por el análisis de datos, la física ambiental y la visualización científica.
+Estudiante de Ingeniería Física, entusiasta del análisis de datos, y la física de partículas .
 
 ---
 
