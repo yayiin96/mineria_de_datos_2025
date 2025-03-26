@@ -1,7 +1,7 @@
 
 # 🌍 Análisis Global de Calidad del Aire y Clima Actual con Python
 
-Este proyecto explora datos globales de contaminación atmosférica y clima en tiempo real usando Python, Google BigQuery y OpenWeather API. Se generan visualizaciones interactivas para identificar zonas críticas en el mundo afectadas por partículas contaminantes como **PM2.5, PM10, NO₂, CO, SO₂ y O₃**.
+Este proyecto explora datos globales de contaminación atmosférica y clima usando Python, Google BigQuery y OpenWeather API. Se generan visualizaciones interactivas para identificar zonas críticas en el mundo afectadas por partículas contaminantes como **PM2.5, PM10, NO₂, CO, SO₂ y O₃**.
 
 ---
 
