@@ -82,9 +82,11 @@ pip install -r requirements.txt
 Estudiante de Ingeniería Física, entusiasta del análisis de datos y la física de partículas.
 
 **Felipe Halabi Alcayaga** 
+
 Estudiante de Ingeniería Fisica, entusiasta del análisis de materiales y la materia condensada.
 
-**Luciano Salas** 
+**Luciano Salas**
+
 Estudiante de Ingeniería Fisica, entusiasta de la creación y análisis de materiales.
 
 ---
