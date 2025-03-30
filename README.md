@@ -38,7 +38,7 @@ Se consulta el clima en tiempo real (temperatura, humedad, lluvia, presión, vie
 ```
 📁 solemne1_jose_soto
 │
-├── solemne1_jose_soto.ipynb             # Notebook principal con el análisis
+├── solemne_1.ipynb             # Notebook principal con el análisis
 ├── mapa_pm25_mundial_ultimo_anio.html  # Mapa interactivo generado
 ├── README.md                            # Descripción del proyecto
 ├── requirements.txt                     # Dependencias del proyecto
@@ -76,10 +76,16 @@ pip install -r requirements.txt
 
 ---
 
-## 🧠 Autor
+## 🧠 Autores
 
 **Jose Luis Soto Pezoa**  
 Estudiante de Ingeniería Física, entusiasta del análisis de datos y la física de partículas.
+
+**Felipe Halabi Alcayaga**
+Estudiante de Ingeniería Fisica, entusiasta del análisis de materiales y la materia condensada.
+
+**Luciano Salas**
+Estudiante de Ingeniería Fisica, entusiasta de la creación y análisis de materiales.
 
 ---
 
